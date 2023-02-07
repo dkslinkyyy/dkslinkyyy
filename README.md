@@ -6,5 +6,5 @@ Learned programming through the computer game Minecraft where i developed server
 I have a distinctive passion for coding and all tech related things. 
 
 >✨ When i code, i get excited when things suddenly work and shit magically 
- appears on my screen, makes me very motivated. ✨
+ appears on my screen. Makes me very motivated. ✨
 
