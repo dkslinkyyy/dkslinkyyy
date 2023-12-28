@@ -1,6 +1,6 @@
 #### Hello there fellas 👋
 
-My name is Dawid, a self-taught programmer working as an IT-consultant based in Sweden.
+My name is Dawid, a self-taught programmer based in Sweden.
 Learned programming through the computer game Minecraft where i developed server side plugins for it.
 
 I have a distinctive passion for coding and all tech related things. 
